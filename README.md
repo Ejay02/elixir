@@ -1,4 +1,4 @@
-# ELixir
+# Elixir
 
 This is a chatbot application that utilizes the openai API to provide a conversational experience. The front-end of the application is built with vanilla Vite, while the back-end is built with Node.js.
 
